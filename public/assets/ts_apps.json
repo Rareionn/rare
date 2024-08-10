@@ -1,0 +1,56 @@
+[
+   {
+      "name":"Geforce Now",
+      "image":"/assets/images/icons/apps/a1.png",
+	  "type":"proxy",
+      "url":"https://www.nvidia.com/en-us/geforce-now/"
+   },
+   {
+      "name":"Google",
+      "image":"/assets/images/icons/apps/a2.png",
+	  "type":"proxy",
+      "url":"https://www.google.com/"
+   },
+   {
+      "name":"Ai Chat",
+      "image":"/assets/images/icons/apps/a3.png",
+      "type":"proxy",
+      "url":"https://deepai.org/chat"
+   },
+   {
+      "name":"Kiddle Search",
+      "image":"/assets/images/icons/apps/a4.png",
+      "type":"proxy",
+      "url":"https://www.kiddle.co/"
+   },
+   {
+      "name":"Mathway",
+      "image":"/assets/images/icons/apps/a5.png",
+      "type":"proxy",
+      "url":"https://www.mathway.com/"
+   },
+   {
+      "name":"Online Games io",
+      "image":"/assets/images/icons/apps/a6.png",
+      "type":"proxy",
+      "url":"https://www.onlinegames.io/"
+   },
+   {
+      "name":"Tik Tok",
+      "image":"/assets/images/icons/apps/a7.png",
+      "type":"proxy",
+      "url":"https://tiktok.com/"
+   },
+   {
+      "name":"Unblocked Games",
+      "image":"/assets/images/icons/apps/a8.png",
+      "type":"proxy",
+      "url":"https://sites.google.com/site/unblockedgames77/"
+   },
+   {
+      "name":"Youtube",
+      "image":"/assets/images/icons/apps/a9.png",
+      "type":"proxy",
+      "url":"https://www.youtube.com/"
+   }
+]
